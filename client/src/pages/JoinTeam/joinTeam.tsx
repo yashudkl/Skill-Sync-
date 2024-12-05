@@ -10,7 +10,7 @@ const joinTeam: React.FC = () => {
           Join A Team 
         </h1>
         <p>Randomly join a team based on your preferences</p>
-        <div className='space-y-2'>
+        <div className='space-y-5'>
         <p className="text-[16px] font-bold mt-4 text-[#384B6B] font-poppins">
           Enter your category
         </p>
